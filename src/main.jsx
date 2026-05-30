@@ -710,9 +710,9 @@ function App() {
               className={sourceMode === 'nearby' ? 'active' : ''}
               type="button"
               onClick={selectNearbySource}
-              disabled={isLoadingNearby || !hasAmapConfig}
+              disabled={isLoadingNearby}
               aria-pressed={sourceMode === 'nearby'}
-              title={hasAmapConfig ? '使用附近餐饮' : '需要配置高德 Web端 Key'}
+              title="使用附近餐饮"
             >
               <MapPin size={13} />
               附近
