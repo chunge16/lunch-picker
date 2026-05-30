@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://chunge16.github.io/lunch-picker/sitemap.xml
