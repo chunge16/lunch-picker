@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title id="title">中午吃什么</title>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#fbfcff"/>
+      <stop offset="1" stop-color="#eef3f7"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="18" fill="url(#bg)"/>
+  <path d="M15 34h34c-.7 8.9-7.5 15-17 15s-16.3-6.1-17-15Z" fill="#ffffff" stroke="#202124" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M22 27c-1.8-2.1-1.2-4 .5-5.8 1.4-1.5 1.9-2.9.6-4.8" fill="none" stroke="#2f9e73" stroke-width="3" stroke-linecap="round"/>
+  <path d="M32 27c-1.8-2.1-1.2-4 .5-5.8 1.4-1.5 1.9-2.9.6-4.8" fill="none" stroke="#3078c9" stroke-width="3" stroke-linecap="round"/>
+  <path d="M42 27c-1.8-2.1-1.2-4 .5-5.8 1.4-1.5 1.9-2.9.6-4.8" fill="none" stroke="#ffb86c" stroke-width="3" stroke-linecap="round"/>
+  <path d="M24 33c0-4.4 3.4-7.5 8.2-7.5 4.5 0 7.8 2.8 7.8 6.7 0 3-1.5 4.8-4.2 6.4-2.1 1.2-2.8 2-2.8 4.1" fill="none" stroke="#202124" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="33" cy="48" r="2.4" fill="#202124"/>
+</svg>
